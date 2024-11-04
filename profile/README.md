@@ -1,7 +1,7 @@
 # meowli!!!
 
 <p align="center">
-    ![meowli logo](https://flush.eqilia.gay/meowli/meowli.png)
+    <img align="left" src="https://flush.eqilia.gay/meowli/meowli.png">
 </p>
 
 does it need to be said yet that i like open source
