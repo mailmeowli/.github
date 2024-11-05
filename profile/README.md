@@ -3,7 +3,7 @@
 </p>
 <h2 align="center">meow.li</h2>
 <p align="center">    
-    Welcome! Zapraszamy! ¡Bienvenido! meow.li is probably, the worst mail service you will ever <b>use</b>.
+    Welcome! Zapraszamy! Bienvenido! meow.li is probably, the worst mail service you will ever <b>use</b>.
 </p>
 <h2 align="center">
     What makes us so special?
